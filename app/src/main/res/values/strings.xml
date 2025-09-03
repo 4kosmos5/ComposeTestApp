@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Compose App</string>
+    <string name="jetpack_compose_ui_android_view_xml">Изучить совместимость Jetpack Compose UI и Android VIew (xml) в рамках совместного использования в коде.</string>
+    <string name="navigation_item_main">Главная</string>
+    <string name="navigation_item_favorite">Избранное</string>
+    <string name="navigation_item_profile">Профиль</string>
+</resources>
